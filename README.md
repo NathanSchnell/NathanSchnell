@@ -1,14 +1,19 @@
-# Hello 👋 My name is Nathan Schnell
-
-                                                                        
+# <p align=center>Hello 👋 My name is Nathan Schnell</p>
+                                                                    
 [!["https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png?v8"](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-I am a junior-level developer focusing on UX/UI Design. I am always looking for new projects and challenges to gain experience, and better my development skills!
+<p align=center>I am a junior-level developer focusing on UX/UI Design. I am always looking for new projects and challenges to gain experience, and better my development skills!</p>
 
-### ![](https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8) My Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)|![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)|![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)|![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)|![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)|![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)|![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)|![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)|![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)|![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)|![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)|
+## <p align=center>![](https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8) My Tech Stack
+**Front End:** [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,nodejs)](https://skillicons.dev)
 
-[![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanSchnell)](https://github.com/NathanSchnell/github-readme-stats)
+**Back End:** [![My Skills](https://skillicons.dev/icons?i=py,firebase,mongodb,postgres)](https://skillicons.dev)
+
+**Design:** [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)</p>
+
+## <p align=center>![](https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png?v8)My Stats
+  [![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanSchnell&theme=darcula)](https://github.com/NathanSchnell/github-readme-stats)
+</p>
 <!--
 **NathanSchnell/NathanSchnell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
