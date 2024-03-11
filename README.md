@@ -5,7 +5,7 @@
 
 I am a junior-level developer focusing on UX/UI Design. I am always looking for new projects and challenges to gain experience, and better my development skills!
 
-###![]("https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8")My Tech Stack:
+### ![]("https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8")My Tech Stack:
 
 
 <!--
