@@ -1,8 +1,8 @@
 # <p align=center>Hello 👋 My name is Nathan Schnell</p>
-                                                                    
-[!["https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png?v8"](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <p align=center>I am a junior-level developer focusing on UX/UI Design. I am always looking for new projects and challenges to gain experience, and better my development skills!</p>
+                                                                    
+### [!["https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png?v8"](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## <p align=center>![](https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8) My Tech Stack
 **Front End:** [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,nodejs)](https://skillicons.dev)
